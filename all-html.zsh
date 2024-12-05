@@ -3,8 +3,8 @@ find_html_files() {
     local dir=$1
 
     # Find all HTML files and print their full path
-    find "$dir" -type f -name "*.html" | while read -r file; do
-        uri="/Users/owner/website/bin/Debug/net9.0/websharpstudios '$file'"
+    find "$dir" -type f -name "*wesley-lin*" | while read -r file; do
+        uri="'$file'"
         echo "$uri"
     done
 }
