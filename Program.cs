@@ -26,7 +26,7 @@ class Program
 
     foreach (var anchor in anchors)
     {
-      var svgs = anchor.SelectNodes(".//svg");
+      var svgs = anchor.SelectNodes(".//a.[@class='' || @class='']");
       if (svgs != null)
       {
         foreach (var svg in svgs)
