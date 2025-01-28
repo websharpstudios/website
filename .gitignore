@@ -360,3 +360,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+wp-content/.DS_Store
+wp-content/plugins/.DS_Store
+wp-content/uploads/.DS_Store
+careers/.DS_Store
+insights/.DS_Store
+past-performances/.DS_Store
+team/.DS_Store
+Program.cs
+websharpstudios.csproj
+.DS_Store
