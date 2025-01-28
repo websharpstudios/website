@@ -6,6 +6,9 @@
   "files.associations": {
     "*.html": "liquid"
   },
+  "files.exclude": {
+    "**/.DS_Store**": "true"
+  },
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
