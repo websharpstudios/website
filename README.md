@@ -1,4 +1,4 @@
-# 💡 Chemical Weapon - OR - Energy Drink Ingredient?
+# 💡 Chemical Weapon or Energy Drink Ingredient?
 
 Welcome to Milton Bradley's fun and educational game where you are invited to guess wether each compound is a chemical weapon or energy drink ingredient.
 
