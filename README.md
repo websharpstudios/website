@@ -1,6 +1,6 @@
 # 💡 Chemical Weapon - OR - Energy Drink Ingredient?
 
-Welcome to the **Chemical Weapon OR Energy Drink Ingredient?**, a fun and educational game where you are invited to guess each compound is used for chemical weapons or the ingredient of an energy drink, or both?
+Welcome to the **Chemical Weapon OR Energy Drink Ingredient?**, a fun and educational game where you are invited to guess wether each compound is a chemical weapon or energy drink ingredient.
 
 ---
 
