@@ -1,6 +1,6 @@
-# 💡 Memory Match Game: Milton Bradley Edition
+# 💡 Chemical Weapon - OR - Energy Drink Ingredient?
 
-Welcome to the **Memory Match Game**, a fun and interactive card-flipping experience inspired by classic educational games. This version includes a vintage intro and lets players engage with mysterious ingredients and weapons!
+Welcome to the **Chemical Weapon OR Energy Drink Ingredient?**, a fun and educational game where you are invited to guess each compound is used for chemical weapons or the ingredient of an energy drink, or both?
 
 ---
 
