@@ -15,7 +15,7 @@ array=(
 "./insights/navigating-application-modernization-benefits-strategies-and-future-trends/index.html"
 "./insights/data-governance-the-backbone-of-digital-transformation/index.html"
 "./comments/feed/index.html"
-"./qed-announcement.html"
+"./lsvcu-announcement.html"
 "./index.html@p=730.html"
 "./index.html"
 "./privacy-policy/index.html"
