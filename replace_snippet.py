@@ -2,7 +2,7 @@ import os
 import re
 
 # Define the parent directory
-parent_directory = '/home/website'  # Replace with your actual parent directory path
+parent_directory = '/home'  # Replace with your actual parent directory path
 
 # Define the new snippet
 new_snippet = '''<!-- Google tag (gtag.js) -->

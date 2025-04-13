@@ -5,7 +5,7 @@ Welcome to Milton Bradley's fun and educational game where you are invited to gu
 ---
 
 ## 🖼️ Intro Screen
-![Milton_bradley.jpg](https://websharpstudios.github.io/website/Milton_Bradley.jpg)
+![Milton_bradley.jpg](https://websharpstudios.github.io/Milton_Bradley.jpg)
 
 When you launch the game, you'll see a full-screen image of the **Milton_bradley.png** logo. This serves as a 5-second splash screen before the game begins.
 
